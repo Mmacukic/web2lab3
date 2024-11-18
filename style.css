@@ -1,0 +1,16 @@
+/* Stil za cijelu stranicu */
+body {
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000;
+}
+
+/* Stil za Canvas */
+#gameCanvas {
+    border: 9px solid #fff;
+    box-shadow: 0 0 10px #fff;
+}
